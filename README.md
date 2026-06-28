@@ -37,7 +37,7 @@ movie-info-card/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/movie-info-card.git
+https://github.com/hansikadasari89-gif/movie-info-card
 ```
 
 2. Navigate to the project folder
