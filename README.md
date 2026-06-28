@@ -70,25 +70,6 @@ npm start
 http://localhost:3000
 ```
 
-## 📸 Preview
-
-Add screenshots of your project here.
-
-## 🎯 Learning Outcomes
-
-- Building web applications using Node.js and Express.js
-- Using EJS for dynamic page rendering
-- Organizing project files effectively
-- Creating responsive web interfaces
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is created for educational and learning purposes.
-
----
-
-⭐ If you found this project helpful, don't forget to star the repository!
+# 👩‍💻 Author
+" Dasari Hansika Reddy"
+- AI & ML Engineering Student
